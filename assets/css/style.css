@@ -13,3 +13,58 @@
 	src: url('../fonts/woff/IRANSansX-Regular.woff') format('woff'),   
 	url('../fonts/woff2/IRANSansX-Regular.woff2') format('woff2');	
 }
+
+*{
+    font-family: IRANSansX;
+    margin: 0px;
+    padding: 0px;
+    direction: rtl;
+}
+
+ul.menu li{
+    display: inline-block;
+    list-style: none;
+    position: relative;
+}
+
+ul.menu li a{
+    display: inline-block;
+    padding: 15px;
+    color: #00796B;
+    text-decoration:none;
+    transition: all 0.3s;
+}
+
+ul.menu li a:hover{
+    color: #03423b;
+}
+
+ul.submenu{
+    display: none;
+    width: 160px;
+    position: absolute;
+    top: 42px;
+    background: #00796B;
+}
+
+ul.menu li i {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+ul.menu li:hover ul.submenu {
+    display: block;
+    background-color:#7B1FA2;
+    width: 250px;
+    transition: all 5s;
+}
+
+ul.submenu li{
+    display: block;
+    border-bottom: 1px solid #ffffff;
+    background: #00BCD4;
+}
+
+ul.submenu li a{
+    display: block;
+}
