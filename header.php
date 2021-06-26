@@ -19,18 +19,23 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-<!-- menu header -->
+<!-- header section -->
     <header>
-        <nav>
-            <ul class="menu">
-                <li>
-                    <a href="#">صفحه اصلی</a>
-                </li>
-                <li>
-                    <a href="#">درباره ما</a>
-                </li>
-                <li>
-                    <a href="#">خدمات<i class="fa fa-caret-down"></i></a>
+        <!-- menu header -->
+        <div class="navigation">
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <a href="#">صفحه اصلی</a>
+                    </li>
+                    <li>
+                        <a href="#">درباره ما</a>
+                    </li>
+                    <li>
+                        <a href="#">تماس با ما</a>
+                    </li>
+                    <li>
+                        <a href="#">خدمات<i class="fa fa-caret-down"></i></a>
                         <ul class="submenu">
                             <li>
                                 <a href="#">طراحی سایت</a>
@@ -39,11 +44,16 @@
                                 <a href="#">سئو تخصصی</a>
                             </li>
                         </ul>
-                </li>
-                <li>
-                    <a href="#">تماس با ما</a>
-                </li>
-            </ul>
-        </nav>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <!-- end of menu header -->
+        <!-- linkedin follow -->
+        <div class="linkedin_follow">
+            <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+            <script type="IN/FollowCompany" data-id="74481890" data-counter="bottom"></script>
+        </div>
+        <!-- end of linkedin follow -->
     </header>
-<!-- end of menu header -->
+<!--end of header section -->

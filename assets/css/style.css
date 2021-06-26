@@ -36,7 +36,7 @@ ul.menu li a{
 }
 
 ul.menu li a:hover{
-    color: #03423b;
+    color: #011311;
 }
 
 ul.submenu{
@@ -56,7 +56,6 @@ ul.menu li:hover ul.submenu {
     display: block;
     background-color: transparent;
     width: 150px;
-    transition: all 5s;
 }
 
 ul.submenu li{
@@ -70,6 +69,6 @@ ul.submenu li a{
     display: block;
 }
 
-ul.submenu li:hover{
-    transition: all 0.5s;
+a:active{
+    background-color:#011311;
 }
