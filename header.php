@@ -17,6 +17,23 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    
-</body>
-</html>
+<!-- menu header -->
+    <header>
+        <nav>
+            <li>
+                <ul>
+                    صفحه اصلی
+                </ul>
+                <ul>
+                    خدمات
+                </ul>
+                <ul>
+                    درباره ما
+                </ul>
+                <ul>
+                    تماس با ما
+                </ul>
+            </li>
+        </nav>
+    </header>
+<!-- end of menu header -->
