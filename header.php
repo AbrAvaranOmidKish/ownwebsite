@@ -9,7 +9,17 @@
     <meta name="robots" content="noindex,nofollow">
     <meta name="keywords" content="abravaran omid kish, abravaran, abravaran omid, ابرآوران ,ابر آوران امید کیش ,شرکت ابرآوران,شرکت ابرآوران امید کیش">
     <meta name="description" content="طراحی حرفه ای ترین سایت ها و پشتیبانی بی نظیر از خدمات رایج ما است!">
+    <link rel="canonical" href="https://abravaranco.com">
     <meta name="theme-color" content="#8E24AA">
+    <meta property="og:locale" content="fa_IR">
+    <meta property="og:title" content="شرکت ابرآوران امید کیش">
+    <meta property="og:description" content="طراحی حرفه ای ترین سایت ها و پشتیبانی بی نظیر از خدمات رایج ما است!">
+    <meta property="og:url" content="https://abravaranco.com">
+    <meta property="og:site_name" content="شرکت ابرآوران امید کیش">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://address">
+    <meta property="og:image:secure_url" content="https://address">
+    <meta property="og:image:alt" content="شرکت ابرآوران امید کیش">
     <link rel="icon" href="img/favicon.ico">
     <link rel="preload" href="assets/fonts/woff/IRANSansX-Regular.woff" as="font" type="font/woff" crossorigin> 
     <link rel="preload" href="assets/fonts/woff2/IRANSansX-Regular.woff2" as="font" type="font/woff2" crossorigin> 

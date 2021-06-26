@@ -68,3 +68,8 @@ ul.submenu li{
 ul.submenu li a{
     display: block;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
