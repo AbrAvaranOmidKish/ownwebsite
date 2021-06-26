@@ -68,7 +68,3 @@ ul.submenu li{
 ul.submenu li a{
     display: block;
 }
-
-a:active{
-    background-color:#011311;
-}
