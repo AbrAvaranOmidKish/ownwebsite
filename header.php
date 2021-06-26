@@ -22,7 +22,7 @@
 <!-- menu header -->
     <header>
         <nav>
-            <ul class="menu">>
+            <ul class="menu">
                 <li>
                     <a href="#">صفحه اصلی</a>
                 </li>
