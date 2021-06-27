@@ -35,6 +35,9 @@
         <div class="navigation">
             <nav>
                 <ul class="menu">
+                    <li class="logo">
+                        <img src="img/logo.png" alt="abravaranco">
+                    </li>
                     <li>
                         <a href="#">صفحه اصلی</a>
                     </li>
