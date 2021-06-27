@@ -21,30 +21,6 @@
     direction: rtl;
 }
 
-body{
-    display: flex;
-    flex-flow: column;
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
-    background-color: #f9f9fa;
-}
- 
-main {
-    flex: 1;
-}
- 
-footer {
-    width: 100%;
-    text-align: center;
-}
-
-
-.container{
-    min-height: 100%;
-    position: relative;
-}
-
 ul.menu li{
     display: inline-block;
     list-style: none;

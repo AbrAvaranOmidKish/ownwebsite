@@ -1,5 +1,4 @@
-</main>
-    <!-- start footer section -->
+  <!-- start footer section -->
     <footer>
         <div class="main_footer">
             <div class="footer_row1">
