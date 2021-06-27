@@ -29,15 +29,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-<!-- header section -->
+<!-- container div -->
+<div class="container">
+    <!-- header section -->
     <header>
         <!-- menu header -->
         <div class="navigation">
             <nav>
                 <ul class="menu">
+                    <!-- logo -->
                     <li class="logo">
                         <img src="img/logo.png" alt="abravaranco">
                     </li>
+                    <!-- end logo -->
                     <li>
                         <a href="#">صفحه اصلی</a>
                     </li>
@@ -62,11 +66,23 @@
             </nav>
         </div>
         <!-- end of menu header -->
+        <!-- SEARCH  -->
+        <div class="search_icon">
+            <i class="fa fa-search" id="search"></i>
+        </div>
+        <!-- end search -->
         <!-- linkedin follow -->
         <div class="linkedin_follow">
             <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
             <script type="IN/FollowCompany" data-id="74481890" data-counter="bottom"></script>
         </div>
         <!-- end of linkedin follow -->
+        <!-- hamburger modal -->
+        <div class="hamburger_desktop_modal">
+            <i class="" id="modal_hamburger"></i>
+        </div>
+        <!-- end hamburger modal -->
     </header>
-<!--end of header section -->
+    <main>
+
+    <!--end of header section -->
